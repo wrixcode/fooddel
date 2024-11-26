@@ -1,0 +1,8 @@
+.navbar .active{
+    padding: 2px;
+    border-bottom:2px solid gray;
+ 
+}
+.navbar li{
+    cursor: pointer;
+}
